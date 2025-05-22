@@ -1,0 +1,24 @@
+{
+  "name": "projectonlocalhost3000",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sathwik123677/projectonlocalhost3000.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sathwik123677/projectonlocalhost3000/issues"
+  },
+  "homepage": "https://github.com/sathwik123677/projectonlocalhost3000#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
